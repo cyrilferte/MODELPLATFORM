@@ -1,1 +1,2 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates)
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BM90734YCCP2WB0FR0Z6WTGM/test)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BM90734YCCP2WB0FR0Z6WTGM/test/vote)
+[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BM90734YCCP2WB0FR0Z6WTGM/2)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BM90734YCCP2WB0FR0Z6WTGM/2/vote)
